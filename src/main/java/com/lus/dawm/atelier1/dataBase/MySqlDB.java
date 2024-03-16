@@ -16,7 +16,7 @@ public class MySqlDB {
         if(connection == null){
             String url = "jdbc:mysql://localhost:3306/eshop";
             String username = "root";
-            String password = "ayoub";
+            String password = "aymane";
 
             Class.forName("com.mysql.cj.jdbc.Driver");
 
